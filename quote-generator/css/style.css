@@ -1,0 +1,31 @@
+.container {
+  margin-top: 20px;
+  font-family: 'Jura', sans-serif;
+}
+#title-bold {
+  font-weight: 900;
+  font-size: 1.2em;
+}
+.quote {
+  background-color: #fff;
+  border: 2px solid #ccc;
+  min-height: 180px;
+  border-radius: 15px;
+  padding: 10px;
+  box-shadow: 3px 3px 5px #eee;
+}
+
+p {
+  margin-left: 10px;
+  font-size: 1.1em;
+}
+
+.next-quote{
+  margin-top: 8px;
+}
+
+#new-quote {
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
