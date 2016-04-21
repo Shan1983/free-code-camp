@@ -1,0 +1,145 @@
+body { 
+  padding-top: 50px; 
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.text-vertical-center{
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.text-vertical-center h1{
+  margin: 0;
+  padding: 0;
+  font-size: 5.4em;
+  font-weight: 700;
+}
+
+/* dark buttons */
+.btn-dark{
+  border-radius: 0;
+  color: #fff;
+  background-color: rgba(0,0,0,0.4);
+}
+
+/* dark button hover effects */
+.btn-dark:hover,
+.btn-dark:focus,
+.btn-dark:active {
+  color: #fff;
+  background-color: rgba(0,0,0,0.7);
+}
+
+/* small hr */
+hr.small {
+  max-width: 100px;
+}
+
+/* header styles */
+#top {
+  color: #fff;
+}
+
+.header {
+  display: table;
+  width: 100%;
+  height: 950px;
+  position: relative;
+  background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(http://www.studsafloat.com.au/images/sydney.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+}
+
+.about {
+  padding: 50px 0;
+  display: table;
+  width: 100%;
+  min-height: 600px;
+  position: relative;
+  background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(http://www.itarttechnologies.com/images/slider/Mobile_App.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  color: #fff;
+}
+
+.services {
+  padding: 50px 0;
+  
+ display: table;
+  width: 100%;
+  min-height: 500px;
+  position: relative;
+  background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(https://redverzdakar.files.wordpress.com/2012/12/5501-world-map-1920x1200-digital-art-wallpaper.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  color: #fff;
+ 
+}
+
+.service-item {
+  margin-bottom: 30px;
+}
+
+.callout {
+  display: table;
+  width: 100%;
+  height: 400px;
+  color: #fff;
+  background-color: green;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+}
+
+.portfolio {
+  padding: 50px 0;
+  color: #fff;
+  display: table;
+  width: 100%;
+  height: 950px;
+  position: relative;
+  background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(http://www.airpro.ie/wp-content/uploads/2014/02/shutterstock_123506017-Copy.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+}
+
+.portfolio-item {
+  margin-bottom: 30px;
+}
+
+.img-portfolio:hover {
+  opacity: 0.8;
+}
+
+.call-to-action {
+  padding: 50px 0;
+}
+
+.call-to-action .btn {
+  margin: 10px;
+}
+
+footer {
+  padding: 100px 0;
+}
+
+#me {
+  min_width: 200px;
+  min-height: 400px;
+  border: 5px solid #fff;
+  
+
+}
+
+#stuff-about-me {
+  font-size: 1.8em;
+  margin-left: 100px;
+  margin-right: 80px;
+  padding: 20px;
+}
+
