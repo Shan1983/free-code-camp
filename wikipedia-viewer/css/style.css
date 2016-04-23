@@ -1,0 +1,61 @@
+.container {
+  font-family: 'Open Sans', sans-serif;
+}
+
+#search-area {
+  border: 1px solid #ccc;
+  background-color: #eee;
+  padding: 20px;
+}
+
+#title{
+  font-weight: 900;
+  font-size: 2.6em;
+  margin-bottom: 20px;
+}
+
+#search {
+  width: 36em;
+  height: 44px;
+  border: 1px solid #4D90FE;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+#search-it {
+  background-color: #4787ED;
+  padding: 10px;
+  font-weight: 900;
+}
+
+#search-it:hover {
+  background-color: #4D90FE;
+  padding: 10px;
+  font-weight: 900;
+}
+
+#random-it {
+  padding: 10px;
+  font-weight: 900;
+}
+
+#result {
+  margin-top: 20px;
+  border: 1px solid #ccc;
+  background-color: #eee;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+ 
+#tmp {
+  margin-top: 20px;
+  border: 1px solid #ccc;
+  background-color: #eee;
+  padding: 30px;
+}
+
+.help {
+  margin-top: 10px;
+  font-size: 1.2em;
+}
+
